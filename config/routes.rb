@@ -1,4 +1,4 @@
-Snatchmebeta::Application.routes.draw do
+Snatchmealpha::Application.routes.draw do
 
   match '/girl',   :to => 'pages#about'
   
